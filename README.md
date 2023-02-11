@@ -9,9 +9,7 @@ Aqui no meu perfil do Github, você pode encontrar alguns dos projetos nos quais
 Acredito na importância da colaboração e da construção de uma comunidade forte e ativa de desenvolvedores, por isso, estou sempre procurando por novas oportunidades de aprendizado e crescimento.
 Se você quiser saber mais sobre o meu trabalho ou se quiser falar comigo, siga-me no Github ou entre em contato comigo através das minhas redes sociais:
 
-<a href="https://github.com/Thiago-Bastani/">
-  <img src="https://github.githubassets.com/favicon.ico" width="25" height="25">
-</a>
+
 <a href="https://www.linkedin.com/in/thiago-bastani-b841821a6/">
   <img src="https://www.linkedin.com/favicon.ico" width="25" height="25">
 </a>
