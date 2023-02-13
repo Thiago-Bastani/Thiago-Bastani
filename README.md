@@ -21,4 +21,4 @@ Se você quiser saber mais sobre o meu trabalho ou se quiser falar comigo, siga-
 </a>
 
 
-Estou ansioso para conversar com você!
+Abraço!
