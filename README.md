@@ -1,5 +1,5 @@
 
-# Saudações, caríssimo! Seja bem vindo!
+# Saudações, caríssimos! Sejam bem vindos!
 
 Meu nome é Thiago Bastani e sou um desenvolvedor full stack SUPER entusiasta pelo desenvolvimento de software em geral. 🔥
 
