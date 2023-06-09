@@ -1,15 +1,9 @@
 
 # Saudações, caríssimos! Sejam bem vindos!
 
-Meu nome é Thiago Bastani e sou um desenvolvedor full stack SUPER entusiasta pelo desenvolvimento de software em geral. 🔥
-
-Atualmente sou estudante de analise e desenvolvimento de sistemas na PUC, porém já desenvolvo software desde os 15 anos de idade. 📓💻
-
-Trabalho como Analista de desenvolvimento de Software, atualmente.
+Meu nome é Thiago Bastani e sou um desenvolvedor full stack SUPER entusiasta pelo desenvolvimento de software em geral, e trabalho como Analista de desenvolvimento de Software, atualmente. 🔥
 
 Aqui no meu perfil do Github, você pode encontrar alguns dos projetos nos quais trabalhei e que compartilho com a comunidade. Sinta-se à vontade para explorá-los e não hesite em entrar em contato comigo caso tenha alguma dúvida ou sugestão. Qualquer contribuição é bem vinda! 🌟🌠
-
-Sou fluente em Português e Inglês. 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Thiago-Bastani&theme=blue-green)
 
