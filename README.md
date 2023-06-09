@@ -42,7 +42,7 @@ Aqui no meu perfil do Github, você pode encontrar alguns dos projetos nos quais
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Bastani&layout=compact&theme=blue-green&hide=VBA)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
