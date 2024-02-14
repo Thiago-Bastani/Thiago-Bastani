@@ -41,6 +41,7 @@ Desenvolvimento Web Full Stack. Automação de taréfas, Data Science. Análise 
 > 
 > ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 > ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+> ![Azure Devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 <br>
 
